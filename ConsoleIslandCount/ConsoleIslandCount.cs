@@ -1,29 +1,27 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ConsoleIslandCount
 {
-/* sample input
-10
-XX--------
--X-----XX-
---XX---XXX
-----------
----X------
----------X
---XX----X-
--XXX-----X
--XXXX-----
-X---------
+    /* sample input
+    10
+    XX--------
+    -X-----XX-
+    --XX---XXX
+    ----------
+    ---X------
+    ---------X
+    --XX----X-
+    -XXX-----X
+    -XXXX-----
+    X---------
 
-*/
+    */
 
     class ConsoleIslandCount
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             //Read input: first line declares size of square grid
             //Remaining lines describe island layout. 'X' represent land
@@ -119,7 +117,6 @@ X---------
         }
     }
     
-
     public class Coordinate
     {
         public int Row { get; set; }
