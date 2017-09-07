@@ -1,0 +1,6 @@
+D:\OneDrive\Projects\Phil\Programming\C#\Drills\ConsoleIslandCount\ConsoleIslandCount\bin\Debug\ConsoleIslandCount.exe.config
+D:\OneDrive\Projects\Phil\Programming\C#\Drills\ConsoleIslandCount\ConsoleIslandCount\bin\Debug\ConsoleIslandCount.exe
+D:\OneDrive\Projects\Phil\Programming\C#\Drills\ConsoleIslandCount\ConsoleIslandCount\bin\Debug\ConsoleIslandCount.pdb
+D:\OneDrive\Projects\Phil\Programming\C#\Drills\ConsoleIslandCount\ConsoleIslandCount\obj\Debug\ConsoleIslandCount.csprojResolveAssemblyReference.cache
+D:\OneDrive\Projects\Phil\Programming\C#\Drills\ConsoleIslandCount\ConsoleIslandCount\obj\Debug\ConsoleIslandCount.exe
+D:\OneDrive\Projects\Phil\Programming\C#\Drills\ConsoleIslandCount\ConsoleIslandCount\obj\Debug\ConsoleIslandCount.pdb
